@@ -33,5 +33,6 @@
 
 # IDE
 .pioenvs/
+.piolibdeps/
 .vscode/
 platformio.ini
